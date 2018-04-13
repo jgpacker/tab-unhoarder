@@ -3,7 +3,7 @@
     "message": "Limpador de abas"
   },
   "extensionDescription": {
-    "message": "Navegue rapidamente por cada uma de suas abas e escolhe uma ação para se livrar dela. (inspirado pelo conceito \"Caixa de email zerada\", em inglês \"Inbox to Zero\")\nExistem 4 ações disponíveis: (1) Fixar aba (somente para as mais importantes), (2) Adicionar aba aos favoritos (em uma pasta dentro de \"Outros favoritos\"), (3) Pular aba (caso você queira decidir mais tarde), e (4) Fechar aba (simples e efetivo). Depois de qualquer uma dessas ações, você é levado para a próxima aba da lista.\nEvite o apego! Simplifique sua navegação!\nLimpe suas abas!"
+    "message": "Navegue rapidamente por cada uma de suas abas e tente se livrar dela.\nVocê pode escolher: (1) Fixar a aba, (2) Favoritar, (3) Pular, ou (4) Fechar ela.\nInspirado pelo conceito do \"Inbox to Zero\"."
   },
   "button.pin.label": {
     "message": "Fixas"

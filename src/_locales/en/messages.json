@@ -3,7 +3,7 @@
     "message": "Tab Unhoarder"
   },
   "extensionDescription": {
-    "message": "Quickly go through each of your tabs and decide on an action to get rid of it. (Inspired by the \"Inbox to Zero\" concept).\nThere are 4 actions available: (1) Pin tab (only for the most important), (2) Bookmark tab (in a folder inside \"Other Bookmarks\"), (3) Skip tab (in case you want to decide later), and (4) Close tab (plain and simple). After any of these actions, you go to the next tab from the list.\nAvoid attachment! Simplify your browsing! Unhoard your tabs!"
+    "message": "Quickly go through each of your tabs and try to to get rid of it.\nYou can choose to: (1) Pin the tab, (2) Bookmark it (3) Skip it, or (4) Close it.\nInspired by the \"Inbox to Zero\" concept."
   },
   "button.pin.label": {
     "message": "Pin"
